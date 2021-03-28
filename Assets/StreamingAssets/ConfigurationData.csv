@@ -1,0 +1,16 @@
+PaddleMoveUnitsPerSecond;20
+BallImpulseForce;200
+BallDeathTime;10
+MinSpawnTime;5
+MaxSpawnTime;10
+StandardBlockPoints;5
+BonusBlockPoints;20
+PickupBlockPoints;5
+ProbStandart;50
+ProbBonus;20
+ProbFreezer;10
+ProbSpeedup;20
+ballsPerGame;12
+FreezerEffectDuration;2
+SpeedupEffectDuration;3
+SpeedupFactor;2

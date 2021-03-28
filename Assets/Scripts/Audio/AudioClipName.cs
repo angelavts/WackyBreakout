@@ -1,0 +1,12 @@
+﻿/// <summary>
+/// An enumeration of the audio clip names
+/// </summary>
+public enum AudioClipName
+{
+    BlockBreaking,
+    ButtonClick,
+    NewBall,
+    NewGame,
+    PaddleTouch,
+    PickupBlockBreaking
+}
